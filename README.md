@@ -42,7 +42,7 @@ A modern, feature-rich task management application built with React, featuring a
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone [https://github.com/ASR172051/task-tracker-react.git]
 ```
 
 2. Install dependencies
